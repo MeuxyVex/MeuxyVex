@@ -1,4 +1,4 @@
-## 🪖⚔️🎖️🪖🎖️💪
+
 [![Codewars](https://img.shields.io/badge/Codewars-MeuxyVex-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MeuxyVex)
 
 ## 🌐 Socials:
